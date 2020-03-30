@@ -1,0 +1,6 @@
+# Cache and config directories
+__pycache__
+.vscode
+
+# Files
+*.ply
